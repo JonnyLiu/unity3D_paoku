@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Dpaoku", "3Dpaoku.csproj", "{DE8E7575-69AD-59E0-9B7B-60E388A9971F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Dpaoku.Editor", "3Dpaoku.Editor.csproj", "{0752CA4D-D328-3E04-6202-0B18C1005300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE8E7575-69AD-59E0-9B7B-60E388A9971F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8E7575-69AD-59E0-9B7B-60E388A9971F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8E7575-69AD-59E0-9B7B-60E388A9971F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8E7575-69AD-59E0-9B7B-60E388A9971F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0752CA4D-D328-3E04-6202-0B18C1005300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0752CA4D-D328-3E04-6202-0B18C1005300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0752CA4D-D328-3E04-6202-0B18C1005300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0752CA4D-D328-3E04-6202-0B18C1005300}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
